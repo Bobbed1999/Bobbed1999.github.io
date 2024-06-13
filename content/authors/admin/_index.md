@@ -3,7 +3,7 @@
 title: Wenzheng Zhao
 
 # Name pronunciation (optional)
-#name_pronunciation: Wenzheng Zhao
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Wenzheng
