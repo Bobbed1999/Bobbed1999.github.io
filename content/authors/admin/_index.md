@@ -143,10 +143,10 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: Chinese
-    percent: 75
-  - name: Portuguese
+    percent: 100
+  - name: Arbic
     percent: 25
 
 # Awards.
