@@ -54,35 +54,35 @@ interests:
 education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2025-01-01
+    date_end: 2029-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S. Electrical and Computer Engineering
+    institution: University of Washington
+    date_start: 2022-09-01
+    date_end: 2024-08-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.84/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      - Machine Learning Cybersecurity
+      - Self-Driving Car
+      - Data Visualization
+  #- area: BSc Artificial Intelligence
+  #  institution: Massachusetts Institute of Technology
+  #  date_start: 2016-01-01
+  #  date_end: 2020-12-31
+  #  summary: |
+  #    GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    Courses included:
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ECE Master's student at the University of Washington and Computer Vision Engineer at Autev, with a deep focus on machine learning, computer vision, and autonomous driving technologies. I am passionate about leveraging advanced algorithms and models to solve real-world problems. I also have completed 16 different course certifications in areas such as Machine Learning, Deep Learning, Python DSA, and Autonomous Driving Systems. These certifications have equipped me with advanced knowledge and practical skills to enhance my expertise in computer vision and related fields.
