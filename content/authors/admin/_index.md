@@ -38,9 +38,9 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Bobbed1999
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/wenzheng-zhao/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
