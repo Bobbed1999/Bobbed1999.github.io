@@ -3,7 +3,7 @@
 title: Wenzheng Zhao
 
 # Name pronunciation (optional)
-name_pronunciation: Wenzheng 
+name_pronunciation:  
 
 # Full name (for SEO)
 first_name: Wenzheng
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Computer Vision Engineer
+role: Lead Robotics & Computer Vision Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -42,7 +42,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/wenzheng-zhao/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=tnVuy2YAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/
 
