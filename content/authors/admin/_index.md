@@ -46,29 +46,9 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-<!-- 
-interests:
-  - Artificial Intelligence
-  - Autonomous Driving Systems
-  - Computer Vision
 
-education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2025-01-01
-    date_end: 2029-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: M.S. Electrical and Computer Engineering
-    institution: University of Washington
-    date_start: 2022-09-01
-    date_end: 2024-08-01
-    summary: |
-      GPA: 3.84/4.0
--->
+
+
 
       Courses included:
       - Machine Learning Cybersecurity
