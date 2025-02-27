@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Lead Robotics & Computer Vision Engineer
+role: PhD in AI + Robotics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Autev
-    url: https://www.autev.com/
+  - name: WPI
+    url: https://www.wpi.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -46,6 +46,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
+<!-- 
 interests:
   - Artificial Intelligence
   - Autonomous Driving Systems
@@ -67,7 +68,7 @@ education:
     date_end: 2024-08-01
     summary: |
       GPA: 3.84/4.0
-
+-->
       Courses included:
       - Machine Learning Cybersecurity
       - Self-Driving Car
