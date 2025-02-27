@@ -1,7 +1,0 @@
-{{ with .Resources.GetMatch "avatar.jpg" }}
-  {{ with .Fill "200x200 Lanczos" }}
-    <img src="{{ .RelPermalink }}" width="200" height="200" alt="Avatar">
-  {{ end }}
-{{ else }}
-  <img src="/authors/admin/avatar.jpg" width="200" height="200" alt="Avatar">
-{{ end }}
