@@ -19,6 +19,8 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+avatar: "avatar.jpg"
+
 # Role/position/tagline
 role: PhD in AI + Robotics
 
