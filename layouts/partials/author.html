@@ -1,0 +1,7 @@
+{{ with .Resources.GetMatch "avatar.jpg" }}
+  {{ with .Resize "200x200" }}
+    <img src="{{ .RelPermalink }}" width="200" height="200" alt="Avatar">
+  {{ end }}
+{{ else }}
+  <img src="/authors/admin/avatar.jpg" width="200" height="200" alt="Avatar">
+{{ end }}
