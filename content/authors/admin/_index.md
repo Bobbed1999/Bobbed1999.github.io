@@ -69,6 +69,7 @@ education:
     summary: |
       GPA: 3.84/4.0
 -->
+
       Courses included:
       - Machine Learning Cybersecurity
       - Self-Driving Car
