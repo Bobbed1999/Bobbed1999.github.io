@@ -1,5 +1,5 @@
 .avatar {
-    width: 3000px !important;  /* 你可以修改这个值 */
-    height: 3000px !important; /* 你可以修改这个值 */
+    width: 150px;  /* 你可以修改这个值 */
+    height: 150px; /* 你可以修改这个值 */
     border-radius: 50%; /* 让头像保持圆形 */
 }
