@@ -58,3 +58,8 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+profile:
+  avatar: "/workspaces/Bobbed1999.github.io/content/authors/admin/avatar.jpg"  # 确保头像路径正确
+  avatar_size: 300  # 设定头像大小
+  avatar_quality: 100  # 设定头像质量
