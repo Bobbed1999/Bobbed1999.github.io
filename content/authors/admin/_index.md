@@ -187,4 +187,8 @@ awards:
 
 ## About Me
 
-ECE Master's student at the University of Washington and Computer Vision Engineer at Autev, with a deep focus on machine learning, computer vision, and autonomous driving technologies. I am passionate about leveraging advanced algorithms and models to solve real-world problems. I also have completed 16 different course certifications in areas such as Machine Learning, Deep Learning, Python DSA, and Autonomous Driving Systems. These certifications have equipped me with advanced knowledge and practical skills to enhance my expertise in computer vision and related fields.
+I am a Ph.D. researcher at WPI. I earned my M.S. in ECE from the University of Washington, where I worked as a research assistant in the UW RAIVN Lab and the UW IPL Lab. My research primarily focuses on Vision-Language-Action (VLA) models and perception for autonomous driving. Additionally, I serve as the Lead Robotics & Computer Vision Engineer at Autev.
+
+My research interests lie in explainable AI, multimodal efficient perception, and safe exploration in unstructured environments. My overarching goal is to develop safe, robust, and human-centered robotic systems capable of natural interaction with the real world. I envision robots that can perceive human intent, reduce the command burden on users, and autonomously execute long-term tasks. To achieve this, I aim to enable robots to learn how humans explore and represent the world, refining their understanding and motor capabilities through continuous exploration.
+
+Each semester, I mentor 3–5 undergraduate students and approximately 2 graduate students. If you are interested in my research, please feel free to reach out via email at wzhao8477[at]gmail[dot]com, including a brief introduction and your research interests.
