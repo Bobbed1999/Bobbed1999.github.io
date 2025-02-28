@@ -1,5 +1,4 @@
-.avatar {
-    width: 150px;  /* 你可以修改这个值 */
-    height: 150px; /* 你可以修改这个值 */
-    border-radius: 50%; /* 让头像保持圆形 */
-}
+#about {
+    margin-top: 10px !important;  /* 适当减少上边距 */
+    margin-bottom: 10px !important; /* 适当减少下边距 */
+  }
