@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "4rem"
 
 sections:
   - block: resume-biography-3
@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        my contact:
-        wzhao8477[at]gmail.com wennie99[at]uw.edu
-        
-        Please reach out to collaborate 😃 
+        My research interests lie in explainable AI, multimodal efficient perception, and safe exploration in unstructured environments. See the following section for details on my publications.
     design:
       columns: '1'
   - block: collection
