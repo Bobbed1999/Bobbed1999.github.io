@@ -25,7 +25,10 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - HRI, Large Language Models
 
+
 featured: true
+
+![pic](/static/images/featured.png) 
 
 links:
 - name: Custom Link
