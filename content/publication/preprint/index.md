@@ -46,7 +46,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: true
-  src: "/workspaces/Bobbed1999.github.io/static/images/featured.png"
+  src: "static/images/featured.png"
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
