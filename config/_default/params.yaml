@@ -59,6 +59,12 @@ features:
   privacy_pack:
     enable: false
 
+params:
+  image_processing:
+    format: "webp"
+    quality: 100
+
+
 custom_css: ["css/custom.css"]
 
 
