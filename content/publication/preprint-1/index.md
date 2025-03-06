@@ -2,11 +2,11 @@
 title: "An example preprint / working paper"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2022-05-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-05-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,21 +17,21 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Precise and timely traffic flow prediction plays a critical role in developing intelligent transportation systems and has attracted considerable attention in recent decades. Despite the significant progress in this area brought by deep learning, challenges remain. Traffic flows usually change dramatically in a short period, which prevents the current methods from accurately capturing the future trend and likely causes the over-fitting problem, leading to unsatisfied accuracy. To this end, this paper proposes a Long Short-Term Memory (LSTM) based method that can forecast the short-term traffic flow precisely and avoid local optimum problems during training. Specifically, instead of using the non-stationary raw traffic data directly, we first decompose them into sub-components, where each one is less noisy than the original input. Afterward, Sample Entropy (SE) is employed to merge similar components to reduce the computation cost. The merged features are fed into the LSTM, and we then introduce a spatiotemporal module to consider the neighboring relationships in the recombined signals to avoid strong autocorrelation. During training, we utilize the Grey Wolf Algorithm (GWO) to optimize the parameters of LSTM, which overcome the overfitting issue. We conduct the experiments on a UK public highway traffic flow dataset, and the results show that the proposed method performs favorably against other state-of-the-art methods with better adaption performance on extreme outliers, delay effects, and trend-changing responses.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper proposes a method for accurate short-term traffic flow prediction.
 
 tags:
-- Large Language Models
+- Deep Learning
 
 featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+  url: https://arxiv.org/abs/2205.00517
+url_pdf: https://arxiv.org/abs/2205.00517
+url_code: 'https://github.com/Bobbed1999'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -42,7 +42,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
