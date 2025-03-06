@@ -43,7 +43,7 @@ url_video: '#'
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ''
-  focal_point: ""
+  focal_point: "top"
   preview_only: false
 
 # Associated Projects (optional).
