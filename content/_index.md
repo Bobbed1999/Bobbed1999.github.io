@@ -30,14 +30,14 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My research interests lie in explainable AI, multimodal efficient perception, and safe exploration in unstructured environments. See the following section for details on my publications.
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       My research interests lie in explainable AI, multimodal efficient perception, and safe exploration in unstructured environments. See the following section for details on my publications.
+  #   design:
+  #     columns: '1'
   - block: collection
     id: papers
     content:
