@@ -2,22 +2,4 @@
   margin-top: 0px !important;
 }
 
-/* Prevent cropping */
-.object-fill {
-  object-fit: contain !important;  /* Ensure the whole image is visible */
-  width: 100% !important;
-  height: auto !important;
-  position: relative !important; /* Override absolute positioning */
-}
-
-/* Adjust the parent container to accommodate the full image */
-.relative.block.aspect-video {
-  aspect-ratio: unset !important; /* Disable forced aspect ratio */
-  height: auto !important;
-}
-
-/* Ensure parent div does not hide overflowing parts */
-.overflow-hidden {
-  overflow: visible !important;
-}
 
