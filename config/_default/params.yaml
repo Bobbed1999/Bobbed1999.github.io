@@ -63,6 +63,7 @@ params:
   image_processing:
     format: "webp"
     quality: 100
+    resample_filter: "Lanczos"
 
 
 custom_css: ["css/custom.css"]
