@@ -59,13 +59,8 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
-# ---
+slides: example
+---
 
-# This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+This work is driven by the results in my [previous paper](/publication/conference-paper/) on Prediction of interval traffic flow.
 
-# {{% callout note %}}
-# Create your slides in Markdown - click the *Slides* button to check out the example.
-# {{% /callout %}}
-
-# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
