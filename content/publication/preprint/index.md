@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Multimodal Perception-Driven Decision-Making for Human-Robot Interaction: A Survey"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2025-03-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-03-05T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,9 +23,9 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- HRI, Large Language Models
 
-featured: false
+featured: true
 
 links:
 - name: Custom Link
