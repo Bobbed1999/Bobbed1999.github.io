@@ -1,3 +1,9 @@
 #about-me {
   margin-top: 0px !important;
 }
+
+.papers img {
+  object-fit: contain !important; /* Ensures the full image is visible */
+  width: 100%; /* Ensures the image fills the container */
+  height: auto; /* Maintains aspect ratio */
+}
