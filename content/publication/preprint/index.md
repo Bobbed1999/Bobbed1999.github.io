@@ -46,6 +46,7 @@ image:
   caption: ''
   focal_point: "center"
   preview_only: false
+  src: "/static/images/featured.png"
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
