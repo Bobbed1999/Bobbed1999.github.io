@@ -22,7 +22,6 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-
 profile:
   show_summary_title: false
 

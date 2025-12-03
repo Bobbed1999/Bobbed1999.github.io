@@ -24,7 +24,7 @@ hugoblox:
     description: "This is Zachary Zhao's personal academic website."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "MyTwitter"              # Twitter/X handle for Twitter Cards (without @)
+      twitter: ""              # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
