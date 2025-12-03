@@ -22,6 +22,10 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+
+profile:
+  about_title: "Research Summary"
+
 # Role/position/tagline
 role: AI Research Assistant
 
