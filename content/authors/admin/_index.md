@@ -24,7 +24,7 @@ highlight_name: true
 
 
 profile:
-  about_title: "Research Summary"
+  show_summary_title: false
 
 # Role/position/tagline
 role: AI Research Assistant
