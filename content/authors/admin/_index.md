@@ -19,11 +19,12 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
+name: "Zachary Zhao"
 aliases:
   - "Wenzheng Zhao"
   - "W. Zhao"
   - "Zhao, Wenzheng"
-  
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
