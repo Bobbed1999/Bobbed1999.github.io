@@ -1,7 +1,7 @@
 ---
 title: "Interval Short-Term Traffic Flow Prediction Method Based on CEEMDAN-SE Nosie Reduction and LSTM Optimized by GWO"
 authors:
-- Wenzheng Zhao
+- admin
 - Yuer Yang
 - Zihao Lu
 
