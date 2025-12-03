@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🎉
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,83 +23,82 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: AI Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: WPI
+    url: https://www.wpi.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:wzhao8477@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/AlexAIResearch
+    url: https://x.com/MyTwitter
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/Bobbed1999
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/wenzheng-zhao/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=tnVuy2YAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-8517-2316
 
 interests:
-  - Large Language Models
+  - Vision Language Models
+  - Causal Reinforcement Learning
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Safety AI
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Robotics (RL-VLM Focus)
+    institution: WPI
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2025-01-01
+    date_end: 2029-06-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      GPA: 4.0/4.0
+      
+      - Directed the development of the LLM-driven multimodal perception–decision framework, applied to domains such as robotics, healthcare, and HRI.
+
+      - Implemented causal reinforcement learning (CRL) algorithms with safety constraints for embodied AI.
+
+      - Led projects resulting in submissions to NeurIPS, T-RO, etc.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      text: 'LinkedIn'
+      url: 'https://www.linkedin.com/in/wenzheng-zhao/'
+      # text: 'Read Thesis'
+      # url: 'https://example.com/thesis.pdf'
+  - area: MS Computer Engineering
+    institution: University of Washington
     icon: ""
     date_start: 2013-09-01
     date_end: 2015-05-31
     summary: |
-      GPA: 4.0/4.0
+      GPA: 3.84/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Specialized in AI and robotics.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Research Assistant
+    company_name: WPI
+    company_url: 'https://www.wpi.edu/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2025-01-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Leading research on multimodal AI systems. Especially on VLM-HRI & CRL.
+  - position: Robotics Research Assistant
+    company_name: UW RAIVN Lab
+    company_url: 'https://www.autev.com/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2024-10-01
+    date_end: 2025-01-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Multimodal perception for Embodied AI
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -122,7 +121,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: RoadTirp
         description: ''
         percent: 80
         icon: person-simple-walk
@@ -130,10 +129,7 @@ skills:
         description: ''
         percent: 90
         icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+      
 
 languages:
   - name: English
