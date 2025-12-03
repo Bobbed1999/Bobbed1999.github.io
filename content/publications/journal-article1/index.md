@@ -32,8 +32,10 @@ abstract: Multimodal perception is essential for enabling robots to understand a
 summary: This survey provides a comprehensive review of advancements in multimodal perception and its integration with decision-making in robotics from year 2004–2024.
 
 tags:
-- Source Themes
-featured: false
+- Front. Robot. AI
+featured: True
+
+
 
 # this is for show preprint button?
 # hugoblox:
