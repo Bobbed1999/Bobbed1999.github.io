@@ -1,5 +1,5 @@
 ---
-title: "Graduate from UW"
+title: "🎉 Graduate from UW"
 subtitle: ""
 summary: "A short summary that appears in the news list."
 date: 2024-06-01
