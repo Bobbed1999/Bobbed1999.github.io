@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Zachary Zhao
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Zachary
+last_name: Zhao
 
 # Pronouns (optional)
 pronouns: he/him
@@ -138,8 +138,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Chinese
+    percent: 100
+  - name: Arbic
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
