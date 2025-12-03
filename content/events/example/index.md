@@ -12,8 +12,10 @@ address:
   postcode: ''
   country: Singapore
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Upcoming AAAI workshop talk
+abstract: A paper on the application of CRL (Causal Reinforcement Learning) in medical safety decision-making has been accepted. Looking forward to seeing you in Singapore.
+
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
