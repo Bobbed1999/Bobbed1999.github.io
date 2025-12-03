@@ -1,5 +1,5 @@
 ---
-title: "Paper Accepted by AAAI workshop
+title: "Paper Accepted by AAAI workshop"
 subtitle: ""
 summary: "A short summary that appears in the news list."
 date: 2025-11-01
