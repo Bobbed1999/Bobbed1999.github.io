@@ -124,7 +124,7 @@ skills:
       - name: RoadTirp
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: road
       - name: Building Custom PCs
         description: ''
         percent: 90
