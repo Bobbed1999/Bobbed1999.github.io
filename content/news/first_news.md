@@ -7,4 +7,4 @@ type: news
 draft: false
 ---
 
-I graduated from the University of Washington with an M.S. degree, specializing in multimodal AI in robotics.
+🎉 I graduated from the University of Washington with an M.S. degree, specializing in multimodal AI in robotics.

@@ -7,4 +7,4 @@ type: news
 draft: false
 ---
 
-A paper on the application of CRL (Causal Reinforcement Learning) in medical safety decision-making has been accepted. Looking forward to seeing you in Singapore.
+🎉 A paper on the application of CRL (Causal Reinforcement Learning) in medical safety decision-making has been accepted. Looking forward to seeing you in Singapore.

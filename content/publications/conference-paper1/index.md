@@ -1,5 +1,5 @@
 ---
-title: 'Causal Reinforcement Learning based Agent-Patient Interaction with Clinical Domain Knowledge'
+title: 'A Distributed Multimodal Robotic Framework for Emotion-Aware Reminiscence Dialogue in Dementia Care'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
