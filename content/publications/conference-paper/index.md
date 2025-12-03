@@ -1,19 +1,22 @@
 ---
-title: 'An example conference paper'
+title: 'Causal Reinforcement Learning based Agent-Patient Interaction with Clinical Domain Knowledge'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Ran Zhang
+  - Ruth Palan Lopez
+  - Shu-Fen Wung
+  - Fengpei Yuan
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2025-10-01T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -24,16 +27,16 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *AAAI 2026 W3PHIAI workshop*
+publication_short: In *AAAI workshop*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Reinforcement Learning (RL) faces significant challenges in adaptive healthcare interventions, such as dementia care, where data is scarce, decisions require interpretability, and underlying patient-state dynamic are complex and causal in nature. In this work, we present a novel framework called Causal structure-aware Reinforcement Learning (CRL) that explicitly integrates causal discovery and reasoning into policy optimization. This method enables an agent to learn and exploit a directed acyclic graph (DAG) that describes the causal dependencies between human behavioral states and robot actions, facilitating more efficient, interpretable, and robust decision-making. We validate our approach in a simulated robot-assisted cognitive care scenario, where the agent interacts with a virtual patient exhibiting dynamic emotional, cognitive, and engagement states. The experimental results show that CRL agents outperform conventional model-free RL baselines by achieving higher cumulative rewards, maintaining desirable patient states more consistently, and exhibiting interpretable, clinically-aligned behavior. We further demonstrate that CRL's performance advantage remains robust across different weighting strategies and hyperparameter settings. In addition, we demonstrate a lightweight LLM-based deployment: a fixed policy is embedded into a system prompt that maps inferred states to actions, producing consistent, supportive dialogue without LLM finetuning. Our work illustrates the promise of causal reinforcement learning for human-robot interaction applications, where interpretability, adaptiveness, and data efficiency are paramount..
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Present a novel framework called Causal structure-aware Reinforcement Learning (CRL) that explicitly integrates causal discovery and reasoning into policy optimization..
 
 tags:
-  - Large Language Models
+  - AAAI
 
 # Display this page in the Featured widget?
 featured: true
@@ -41,27 +44,29 @@ featured: true
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi: 10.5555/123456
+    # doi: 10.5555/123456
+    arxiv: 2512.00048v1
+    
 
 # Custom links
 links:
-  - type: pdf
-    url: ""
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: slides
-    url: https://www.slideshare.net/
+  # - type: pdf
+  #   url: ""
+  # - type: code
+  #   url: https://github.com/HugoBlox/hugo-blox-builder
+  # - type: dataset
+  #   url: https://github.com/HugoBlox/hugo-blox-builder
+  # - type: slides
+  #   url: https://www.slideshare.net/
   - type: source
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: video
-    url: https://youtube.com
+    url: https://arxiv.org/abs/2512.00048
+  # - type: video
+  #   url: https://youtube.com
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
