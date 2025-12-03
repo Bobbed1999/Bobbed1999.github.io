@@ -37,7 +37,7 @@ profiles:
     url: 'mailto:wzhao8477@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/MyTwitter
+    url: https://x.com/
   - icon: brands/github
     url: https://github.com/Bobbed1999
   - icon: brands/linkedin
